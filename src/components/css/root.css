@@ -1,0 +1,25 @@
+:root {
+        
+        --color-default: #f8fafc;
+        --color-secondary: #f9fafb;
+        --color-link: #71717a;
+        --color-gray: #f2f2f2;
+        --color-gray-hover: #d7d4d4;
+        --color-gray-second: #eae8e8;
+        --color-success: #16a34a;
+        --color-warning: #fb923c;
+        --color-warning-hover: #d27325;
+        --color-danger: #ef4444;
+        --color-danger-hover: #d24141;
+        --color-info: #0ea5e9;
+        --color-info-hover: #1097d6;
+        --color-black: #171717;
+        --color-white: #fff;
+        --border-radius: .5rem;
+        --gap-wh: .5rem;
+        --padding: .5rem;
+        --box-shadow: 5px 5px 10px #dedede,
+        5px -5px 10px #e2e2e2;
+        --box-shadow-inset: inset 20px 20px 60px #bebebe,
+        inset -20px -20px 60px #ffffff;
+}
